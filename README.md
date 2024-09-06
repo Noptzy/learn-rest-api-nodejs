@@ -9,7 +9,7 @@
 1. Clone repositori ini:
 
     ```bash
-    git clone https://github.com/username/repository.git
+    git clone https://github.com/Noptzy/learn-rest-api-nodejs.git
     cd repository
     ```
 
